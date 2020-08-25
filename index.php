@@ -71,7 +71,7 @@
     ?>
 
     <footer>
-        <h3><a href="#">View code on GitHub</a></h3>
+        <h3><a href="https://github.com/iulianabc67/Calculator-PHP_OOP.git">View code on GitHub</a></h3>
     </footer>
     
 </body>
