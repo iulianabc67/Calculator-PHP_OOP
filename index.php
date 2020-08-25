@@ -27,7 +27,7 @@
 	</style>
 
 </head>
-<body></body>
+<body>
 
     <form action="<?=$_SERVER['PHP_SELF'];?>" method="post">
         <h1>Calculator (PHP_OOP)</h1>
