@@ -39,6 +39,7 @@
             <option value="/">/ (divide)</option>
             <option value="*">* (multiply)</option>
             <option value="%">% (modulo)</option>
+            <option value="pow">pow (power raise)</option>
         </select>
         <input type="number" name="num2" placeholder="Second number">
         <button type="submit" name="submit">Calculate</button>

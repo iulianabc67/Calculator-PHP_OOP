@@ -47,6 +47,11 @@ class Calc {
                 return $result;
                 break;
             
+            case 'pow':
+                $result = pow($this->num1, $this->num2);
+                return $result;
+                break;
+            
             default:
                 echo "Error found";
                 break;
