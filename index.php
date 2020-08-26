@@ -20,8 +20,8 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #b3b3b3db;
-            color: #eee;
+            background-color: #eee;
+            color: #222;
             text-align: center;
         }
 	</style>
